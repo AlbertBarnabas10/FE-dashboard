@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+//THIS APP IS NOT COMPLETED
+- Mock Up API is build using JSON SERVER
+- need to start NPM twice for the app and local api to work
+- ChartJS's structure is done but there are some error when installing using NPM
+- So chart wont be called
+- REMEBER MOCK API is build using JSON SERVER so install JSON SERVER before using the API
+
+#THANKYOU
