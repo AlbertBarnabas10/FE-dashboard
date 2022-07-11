@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    height:50px;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+}
+
+.search{
+    margin: 0 20px;
+}
+
+.UserProfile{
+    display: flex;
+    margin: 0 20px;
+    align-items: center;
+}
+
+.UserProfile p{
+    margin-left: 10px;
+}

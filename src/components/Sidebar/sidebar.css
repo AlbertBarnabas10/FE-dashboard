@@ -1,0 +1,51 @@
+.SideBar{
+    max-width: 250px;
+    position: fixed;
+    width:20%;
+   /* padding-right: 100px; */
+    height: 100%;
+    min-height: 100vh;
+    background-color: #f6f5f5;
+    border-right: 1px solid rgb(79, 79, 79);
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+.top h2{
+    color: #1aa7ec;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.center h6{
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
+
+.center ul li{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.center ul li span{
+    color: #9a9a9a;
+    margin-left: 2px;
+}
+
+.icon{
+    font-size: 20px;
+    color: #1aa7ec;
+}
